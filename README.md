@@ -28,4 +28,4 @@ int main(void){
 </html>
 ```
 링크는 다음과 같이 작성할 수 있다. 
-[나의 GitHub] (https://github.com/haeinkang)
+[나의 GitHub](https://github.com/haeinkang)
