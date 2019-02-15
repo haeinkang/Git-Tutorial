@@ -1,6 +1,6 @@
 # Git-Tutorial
 ## Got-Tutorial
-### #은 많을수록 글자 크기가 지며, 5 개 까지 사용 가능 
+### #은 많을수록 글자 크기가 작아지며, 5 개 까지 사용 가능 
 
 ## 깃 튜토리얼
 소스 코드 블록은 다음과 같이 작성할 수 있다. 
@@ -27,3 +27,5 @@ int main(void){
 </body>
 </html>
 ```
+링크는 다음과 같이 작성할 수 있다. 
+[나의 GitHub] (https://github.com/haeinkang)
